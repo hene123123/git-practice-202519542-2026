@@ -7,6 +7,3 @@
 
 ## Objectives
 Practice basic and advanced Git commands.
-
-3. Make the first commit with the message:
-   "initial: setup exam repository 202519542"
